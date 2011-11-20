@@ -25,6 +25,6 @@ import org.eclipse.egit.github.core.client.GitHubClient;
 public class DownloadForks {
 
   public static void main(String[] args) {
-    GitHubClient client = GitHubClient
+    //GitHubClient client = GitHubClient
   }
 }
